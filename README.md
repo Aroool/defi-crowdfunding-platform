@@ -1,9 +1,5 @@
 # Decentralized Crowdfunding Platform (DeFi Kickstarter)
 
-**Course:** BAN 5700 – Blockchain and Cryptocurrency  
-**University:** Clark University  
-**Team:** Sai Vaishnavi Veeramalla · Neha Naik  
-
 A smart-contract-based crowdfunding dApp built on the Ethereum Sepolia testnet.  
 Campaign rules are enforced in Solidity — no intermediary, no trust required.
 
